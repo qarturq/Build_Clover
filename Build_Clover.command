@@ -29,6 +29,8 @@
 #
 
 # --------------------------------------
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin" 
+
 SCRIPTVER="v4.9.1"
 RSCRIPT_INFO="Fixes"
 RSCRIPTVER=""
